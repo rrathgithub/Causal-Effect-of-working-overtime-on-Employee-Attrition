@@ -1,4 +1,4 @@
-# Causal effect of working overtime on employ attrition
+# Causal effect of working overtime on employee attrition
 
 > [TLDR: Presentation for everything one needs to know](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Presentation.pdf)
 
